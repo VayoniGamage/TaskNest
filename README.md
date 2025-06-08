@@ -1,6 +1,6 @@
 # TaskNest 🪺 - Backend
 
-**TaskNest** is a simple yet complete task management backend built with **Node.js**, **Express.js**, and **MongoDB**. It features a fully functional RESTful API with full **CRUD** operations, **unit testing using Jest**, and **Postman-ready endpoints** for easy testing. It's the backend for a mobile or web-based to-do application.
+**TaskNest** is a simple yet complete task management backend built with **Node.js**, **Express.js**, and **MongoDB**. It features a fully functional RESTful API with full **CRUD** operations, **unit testing using Jest**, and **Postman-ready endpoints** for easy testing. It's the backend for a mobile based to-do application.
 
 ---
 
